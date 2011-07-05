@@ -8,6 +8,7 @@ group :development, do
   gem 'rspec-rails'
 end
 
-group:test do
+group :test do
   gem 'rspec'
+  gem 'webrat'
 end
